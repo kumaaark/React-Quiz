@@ -1,0 +1,137 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+bower_components/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+*.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.manifest
+*.spec
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.jpi
+*.hpi
+
+# Compiled source
+*.o
+*.obj
+*.dll
+*.exe
+*.out
+*.app
+*.ipa
+*.dSYM/
+*.stackdump
+
+# C#
+*.csproj
+*.user
+*.aps
+*.aps.xml
+*.rsuser
+*.suo
+*.sln
+*.dll
+*.nupkg
+*.symbols.nupkg
+*.swp
+*.lock.json
+project.lock.json
+
+# Swift
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Rust
+target/
+
+# Go
+*.exe
+*.test
+*.out
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+.config/
+.rspec
+.ruby-gemset
+.ruby-version
+.rvmrc
+
+# JavaScript
+*.js.map
+*.css.map
+*.tsbuildinfo
+
+# Minified files
+*.min.js
+*.min.css
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# Misc
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
+*.bak
+*.backup
+*.tmp
